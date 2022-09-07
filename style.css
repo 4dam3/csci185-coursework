@@ -1,22 +1,28 @@
 style.css
 /* You're welcome to change any of this! */
+
 * {
     box-sizing: border-box;
+    
 }
 
 body {
+    background-color: #000000;
     margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'Press Start 2P', cursive;
+  
 }
 header, section {
+    color:#34E627;
     padding: 20px;
+    background-color: #00000093;
 }
 p, li {
     line-height: 1.5em;
 }
 
 #inspiration {
-    background-color: #F0F0F0;
+    background-color: #00000093;
     padding-top: 40px;
     padding-bottom: 40px;
 }
