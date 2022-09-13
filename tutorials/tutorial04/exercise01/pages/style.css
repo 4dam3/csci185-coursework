@@ -1,0 +1,34 @@
+body {
+    background-color: #F0F4EF;
+  }
+header {
+  background-color: #b4cded;
+  text-align: center;
+  vertical-align: middle;
+  font-family: 'impact';
+
+}
+nav{
+  text-align: center;
+  background-color: black;
+  color:white;
+  text-decoration: none;
+  font-weight:bold;
+
+}
+footer{
+  background-color: #344966;
+  Color:white
+}
+img{
+  width: 120%;
+  height: 120%;
+  
+}
+.image{
+  display: inline-block;
+  margin-right: 11%;
+}
+#third{
+  margin-right: 0%;
+}
